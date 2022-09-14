@@ -56,10 +56,11 @@ font-size: 1.5rem;
   position: relative;
 }
 .load{
-  background-image: url(../images/loader-dribbble-shot.gif);
+  background-image: url(../images/ezgif-2-9d94781b522f.gif);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 90vh;
 }
 .log{
   margin-top: 40% !important;
