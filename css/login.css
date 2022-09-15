@@ -56,14 +56,14 @@ font-size: 1.5rem;
   position: relative;
 }
 .load{
-  background-image: url(../images/ezgif-2-9d94781b522f.gif);
+  background-image: url(../images/banner.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   height: 90vh;
 }
 .log{
-  margin-top: 40% !important;
+  margin-top: 20% !important;
 }
 
 img.avatar {
@@ -143,6 +143,11 @@ span.psw {
   }
   .cancelbtn {
      width: 100%;
+  }
+}
+@media(max-width:768px){
+  .log{
+    margin-top: 50% !important ;
   }
 }
 .text-center{margin-left: 40%;}
