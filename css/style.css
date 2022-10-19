@@ -296,6 +296,7 @@ button {
 .navigation.navbar-dark .navbar-nav .show>.nav-link {
      color: #bb4f42;
 }
+.te{  color: #fbd10f;}
 
 .navbar-expand-md .navbar-nav {
      padding-right: 10px;
@@ -303,7 +304,7 @@ button {
 .login_btn {
 background: #d5ba08;
 padding: 3px 27px;
-color: #fff;
+color: rgb(248, 247, 252);
 font-size: 17px;
 border-radius: 10px;
 }
@@ -395,7 +396,8 @@ width: 100%;
      padding-bottom: 60px;
 }
 .login_btn{
-     border: 2px solid yellow !important;
+     border: 2px solid rgb(17, 0, 255) !important;
+     color: blue !important;
 }
 
 .text-img figure {
